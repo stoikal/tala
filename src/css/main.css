@@ -2,3 +2,8 @@
   width: 1200px;
   margin: 0 auto;
 }
+
+button {
+  width: 48px;
+  height: 48px;
+}
