@@ -1,6 +1,6 @@
-## Demo
+## Page
 
-[https://xlwpa.gitlab.io/tala/](https://xlwpa.gitlab.io/tala/)
+[https://xlaks.github.io/tala/](https://xlaks.github.io/tala/)
 
 ## Notes
 
